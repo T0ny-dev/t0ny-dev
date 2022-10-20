@@ -6,7 +6,7 @@ I am an industrial engineer and full stack developer passionate about collaborat
 ## About me 🌎:<img align="left" width="150" height="150" src="img/avatartony.png">
 - Industrial engineer and computer systems technician from UTEL 💻︎✍🏾
 - Community member of the larnU startup from Santiago Chile. 👽
-- Currently studying at camp.io UX/UI bootcamp and Launch X LATAM challenge
+- Currently studying at Ucamp.io UX/UI bootcamp and Launch X LATAM challenge Microsoft
 
 --- 
 
