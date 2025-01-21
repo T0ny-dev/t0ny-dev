@@ -1,6 +1,6 @@
 ## Hi, I'm Tony 👋
 
-![Banner](img/port.png)
+![Banner](img/anima.gif)
 
 I am an industrial engineer and full-stack developer with a strong passion for collaborating and making learning more accessible. I thrive on creating technology that supports communities and drives positive change. I specialize in modern development tools like ReactJS and the PERN stack, and I’m currently expanding my expertise into Flutter and Dart to build seamless cross-platform applications.
 
@@ -57,9 +57,9 @@ I’ve built my skills in diverse areas, from responsive web design to UX/UI pri
 
 ### Connect With Me 🔗:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/antoniora-me/)
-- Portfolio: [Your Portfolio](https://t0ny-dev-web.vercel.app/)
-- Email: [your.email@example.com](mailto:antonioraweb@gmail.com)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/antoniora-me/)
+- Portfolio: [Portfolio](https://t0ny-dev-web.vercel.app/)
+- Email: [correo](mailto:antonioraweb@gmail.com)
 
 ---
 
