@@ -49,12 +49,17 @@ Additionally, I am developing robust B2B solutions for **Comexia**, aiming to re
 
 <div align="center">
 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=T0ny-dev&theme=radical&no-frame=true&margin-w=15&row=1" alt="Tony's Trophies" />
+  </a>
+  <br/><br/>
+
   <a href="https://github.com/T0ny-dev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=T0ny-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=T0ny-dev&theme=radical&hide_border=true" alt="Tony's Streak" />
   </a>
 
   <a href="https://github.com/T0ny-dev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0ny-dev&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0ny-dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
   </a>
 
 </div>
@@ -68,8 +73,6 @@ Additionally, I am developing robust B2B solutions for **Comexia**, aiming to re
 - 📧 Email: [antonioraweb@gmail.com](mailto:antonioraweb@gmail.com)
 
 ---
-
-
 
 
 
