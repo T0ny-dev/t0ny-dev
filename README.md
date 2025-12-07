@@ -52,14 +52,15 @@ Additionally, I am developing robust B2B solutions for **Comexia**, aiming to re
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=T0ny-dev&theme=radical&no-frame=true&margin-w=15&row=1" alt="Tony's Trophies" />
   </a>
-  <br/><br/>
+  
+  <br/>
+  <br/>
 
   <a href="https://github.com/T0ny-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=T0ny-dev&theme=radical&hide_border=true" alt="Tony's Streak" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=T0ny-dev&theme=radical&hide_border=true" alt="Tony's Streak" />
   </a>
-
   <a href="https://github.com/T0ny-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0ny-dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T0ny-dev&theme=radical" alt="Top Languages" />
   </a>
 
 </div>
